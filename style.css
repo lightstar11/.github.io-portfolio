@@ -1,6 +1,11 @@
 body {
-  background: red;
+background-color: #242f44;
+  color: white;
+  font-family:"Time new Roman"
 }
-  h1 {
-    color: yellow;
-  }
+header {
+  text-align: center;
+}
+.clan-vesla {
+  width: 500px;
+}
