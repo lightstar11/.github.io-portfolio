@@ -8,4 +8,6 @@ header {
 }
 .clan-vesla {
   width: 500px;
+  margin: 0 auto;
+  display: block;
 }
