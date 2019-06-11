@@ -11,3 +11,22 @@ header {
   margin: 0 auto;
   display: block;
 }
+
+.basalisk{
+  width: 200px;
+  margin: 0 auto;
+  display: block;
+}
+.crusader{
+  width: 400px;
+  margin: 0 auto;
+  display: block;
+}
+.mandalore{
+  width: 500px;
+  margin: 0 auto;
+  display: block;
+}
+a {
+  color: blue;
+}
